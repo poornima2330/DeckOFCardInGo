@@ -57,6 +57,3 @@ Go is an open-source programming language developed by Google. It is designed fo
 
 To learn more about Go, visit the [official Go website](https://golang.org/).
 
----
-
-Feel free to customize the README file further based on your specific requirements or preferences!
