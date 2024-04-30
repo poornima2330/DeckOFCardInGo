@@ -1,7 +1,5 @@
 # DeckOFCardInGo
-Sure! Below is a README.md file for the deck of cards implemented in Go along with some information about Go:
 
----
 
 # Deck of Cards in Go
 
